@@ -1,9 +1,11 @@
-baseURL = "https://example.com"
+baseURL = "https://jiaobufan.github.io/"
+publishDir="docs"
 title = "Blonde"
 author = "wamo"
 languageCode = "en"
 DefaultContentLanguage = "en"
-enableInlineShortcodes = true
+ignoreErrors = ["error-remote-getjson"]
+enableInlineShortcodes = false
 theme = "Blonde"
 enableRobotsTXT = true
 
@@ -51,21 +53,21 @@ archive = "archives"
 [privacy]
 
   [privacy.vimeo]
-    disabled = false
-    simple = true
+    disabled = true
+    simple = false
 
   [privacy.twitter]
-    disabled = false
-    enableDNT = true
-    simple = true
+    disabled = true
+    enableDNT = false
+    simple = false
 
   [privacy.instagram]
-    disabled = false
-    simple = true
+    disabled = true
+    simple = false
 
   [privacy.youtube]
-    disabled = false
-    privacyEnhanced = true
+    disabled = true
+    privacyEnhanced = false
 
 [services]
 
@@ -76,4 +78,4 @@ archive = "archives"
     disableInlineCSS = true
 
 [build]
-  writeStats = true
+  writeStats = false
