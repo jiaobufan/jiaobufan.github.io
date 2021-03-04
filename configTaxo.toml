@@ -1,5 +1,5 @@
-timeout = 30000
-enableInlineShortcodes = false
+timeout = 300000
+enableInlineShortcodes = true
 
 [taxonomies]
 category = "categories"
@@ -9,19 +9,19 @@ archives = "archives"
 [privacy]
 
   [privacy.vimeo]
-    disabled = true
-    simple = false
+    disabled = false
+    simple = true
 
   [privacy.twitter]
-    disabled = true
-    enableDNT = false
-    simple = false
+    disabled = false
+    enableDNT = true
+    simple = true
     disableInlineCSS = true
 
   [privacy.instagram]
-    disabled = true
-    simple = false
+    disabled = false
+    simple = true
 
   [privacy.youtube]
-    disabled = true
-    privacyEnhanced = false
+    disabled = false
+    privacyEnhanced = true
