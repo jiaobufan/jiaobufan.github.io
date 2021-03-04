@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blonde</title>
+    <title>焦不凡的『博客』</title>
     <link>https://jiaobufan.github.io/</link>
-    <description>Recent content on Blonde</description>
+    <description>Recent content on 焦不凡的『博客』</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 14 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://jiaobufan.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -71,7 +71,7 @@
     </item>
     
     <item>
-      <title>About</title>
+      <title>关于</title>
       <link>https://jiaobufan.github.io/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
@@ -82,7 +82,7 @@ Hugo makes use of a variety of open source projects including:
     </item>
     
     <item>
-      <title>Contact</title>
+      <title>联系我</title>
       <link>https://jiaobufan.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
