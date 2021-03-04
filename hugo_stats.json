@@ -25,7 +25,6 @@
       "head",
       "hr",
       "html",
-      "iframe",
       "img",
       "input",
       "kbd",
@@ -57,7 +56,6 @@
       "ul"
     ],
     "classes": [
-      "__h_video",
       "active",
       "align-middle",
       "bg-blue-600",
@@ -183,7 +181,6 @@
       "py-2",
       "py-3",
       "py-5",
-      "s_video_simple",
       "sm:inline-block",
       "sm:items-center",
       "sm:mt-0",
@@ -248,11 +245,8 @@
       "tables",
       "tags",
       "thumb",
-      "twitter-simple-shortcode",
       "unordered-list",
-      "vagus-elidunt",
-      "vimeo-simple-shortcode",
-      "youtube-privacy-enhanced-shortcode"
+      "vagus-elidunt"
     ]
   }
 }
